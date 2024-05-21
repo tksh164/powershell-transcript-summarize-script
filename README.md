@@ -1,1 +1,1 @@
-# PowerShell transcript summary script
+# PowerShell transcript summarize script
